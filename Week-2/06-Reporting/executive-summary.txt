@@ -1,0 +1,5 @@
+This penetration testing assessment was conducted on a Linux-based vulnerable system (Metasploitable2) hosting multiple intentionally vulnerable services, including the Damn Vulnerable Web Application (DVWA). The objective of this engagement was to identify security weaknesses, validate exploitability, and assess the overall security posture using the PTES methodology.
+
+The assessment identified multiple critical vulnerabilities such as SQL Injection, weak password storage mechanisms, remote command execution, and improper privilege configurations. Successful exploitation of these vulnerabilities resulted in full system compromise, including root-level access.
+
+These findings indicate a high-risk environment where an attacker could gain complete control of the system. Immediate remediation is recommended, including secure coding practices, service hardening, strong password hashing mechanisms, and regular patch management to prevent real-world exploitation.

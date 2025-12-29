@@ -1,0 +1,7 @@
+Target: Metasploitable2
+IP Address: 192.168.227.129
+Environment: Internal Lab
+Testing Type: Penetration Testing (VAPT)
+In Scope: All services on target IP
+Out of Scope: DoS, external networks
+Authorization: Lab environment

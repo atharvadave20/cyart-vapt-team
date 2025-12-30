@@ -1,0 +1,19 @@
+Title: Full Vulnerability Assessment and Penetration Testing (VAPT) Report
+
+Executive Summary:
+A comprehensive Vulnerability Assessment and Penetration Testing (VAPT) exercise was conducted on the target environment to identify security weaknesses across network services, applications, and mobile components. The assessment followed the Penetration Testing Execution Standard (PTES) methodology, covering reconnaissance, scanning, exploitation, post-exploitation, and reporting phases.
+
+Scope and Methodology:
+The engagement included network scanning using OpenVAS, mobile application security testing using MobSF, and manual verification of identified vulnerabilities. Automated tools such as OpenVAS were used to detect misconfigurations, outdated services, and known vulnerabilities, while MobSF was used for static analysis of an intentionally vulnerable Android application (DIVA 1.0).
+
+Findings and Exploitation:
+The OpenVAS scan identified multiple medium and high severity vulnerabilities, including outdated services, weak configurations, and exposed network services that could lead to unauthorized access. Mobile application testing revealed insecure data storage, debug mode enabled in production, unprotected components, and dangerous permissions. These weaknesses may allow attackers to extract sensitive data or abuse application functionality.
+
+Risk Impact:
+If exploited, the identified vulnerabilities could result in data leakage, privilege escalation, service disruption, and unauthorized system access. The combined presence of network and application-level vulnerabilities significantly increases the overall attack surface.
+
+Remediation Recommendations:
+It is recommended to apply security patches, disable debug configurations, restrict exposed services, enforce least privilege, and follow secure coding practices. Regular vulnerability scanning and periodic penetration testing should be conducted to maintain a strong security posture.
+
+Conclusion:
+The assessment demonstrates the importance of proactive security testing. Addressing the identified issues will significantly reduce the organization’s exposure to potential cyber threats.

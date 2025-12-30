@@ -1,0 +1,29 @@
+VAPT Workflow – Week 4
+
+1. Environment Setup
+   - Kali Linux configured
+   - Target machines identified
+
+2. Vulnerability Scanning
+   - Network scanned using OpenVAS
+   - Scan results reviewed and documented
+
+3. Mobile Application Testing
+   - DIVA APK analyzed using MobSF
+   - High and Medium severity findings recorded
+
+4. Validation
+   - Screenshots captured for evidence
+   - Reports exported as PDF
+
+5. Risk Analysis
+   - Vulnerabilities categorized by severity
+   - Impact assessed
+
+6. Reporting
+   - PTES report created
+   - Non-technical summary prepared
+
+7. Documentation
+   - All logs, screenshots, and reports organized
+   - Uploaded to GitHub repository

@@ -1,0 +1,4 @@
+Debug Enabled                     → M9: Improper Platform Usage
+Insecure External Storage         → M2: Insecure Data Storage
+Unprotected Activities/Providers → M1: Improper Platform Usage
+Sensitive Logging                → M2: Insecure Data Storage

@@ -1,0 +1,3 @@
+Test ID | Vulnerability                         | Severity | Target App
+016     | Debug Enabled in Production Build      | High     | DIVA.apk
+017     | Insecure External Storage Usage        | Medium   | DIVA.apk

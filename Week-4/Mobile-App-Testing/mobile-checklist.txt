@@ -1,0 +1,23 @@
+Mobile Application Penetration Testing Checklist (Week 4)
+
+Target Application: DIVA 1.0
+Testing Tool: MobSF (Docker)
+
+[✓] MobSF environment set up and running successfully
+[✓] Vulnerable APK (DIVA 1.0) uploaded and analyzed
+[✓] Static analysis completed
+[✓] Application security score reviewed (36/100)
+[✓] High severity vulnerabilities identified
+[✓] Medium severity vulnerabilities identified
+[✓] Insecure data storage issues reviewed
+[✓] Debug configuration and certificate issues identified
+[✓] Exported activities and content providers analyzed
+[✓] Dangerous permissions reviewed
+[✓] OWASP Mobile Top 10 vulnerabilities mapped
+[✓] Screenshots of findings captured
+[✓] MobSF report exported as PDF
+[✓] Vulnerability log created
+[✓] Summary documentation completed
+[✓] All artifacts organized for GitHub submission
+
+Status: Completed

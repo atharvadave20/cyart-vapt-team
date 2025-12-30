@@ -1,0 +1,1 @@
+Static analysis of the DIVA Android application was conducted using MobSF. The assessment revealed critical issues such as debug mode enabled, insecure data storage, and unprotected components. These weaknesses may allow attackers to access sensitive data, abuse application functionality, and compromise application security.
